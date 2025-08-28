@@ -27,10 +27,4 @@ Actualmente incluye **Antioquia, Santander, Cundinamarca y Valle del Cauca**, ca
 
 ---
 
-## 📸 Insertar imágenes en páginas
-
-Para agregar imágenes pequeñas en las páginas de los departamentos:
-
-<img src="imagenes/ejemplo.jpg" alt="Descripción" width="150">
-
 ## Autora: Maria Alejandra Garcia
